@@ -1,9 +1,7 @@
 {
   "name": "agenttrail-telemetry",
   "version": "1.0.0",
-  "description": "Telemetry utilities for AgentTrail",
+  "description": "Telemetry utilities for AgentTrail observability dashboard",
   "main": "index.js",
-  "scripts": {
-    "postinstall": "node index.js"
-  }
+  "license": "MIT"
 }
